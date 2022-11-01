@@ -1,69 +1,69 @@
 [
     {
-        "text": "#1 - Verejný dluh",
+        "text": "#1 - Veřejný dluh",
         "answers": [
             {
                 "correct": false,
-                "text": "jinámonost"
+                "text": "jiná možnost"
             },
             {
                 "correct": false,
-                "text": "secasto financuje prímými úvery centrálních bank"
+                "text": "se často financuje přímými úvěry centrálních bank"
             },
             {
                 "correct": false,
-                "text": "jev CR relativne vyí ne v prumeru v jiných vyspelých zemích"
+                "text": "je v ČR relativně vyšší než v průměru v jiných vyspělých zemích"
             },
             {
                 "correct": true,
-                "text": "je v CR preváne dluhem vuci domácím ekonomickým subjektum"
+                "text": "je v ČR převážně dluhem vůči domácím ekonomickým subjektům"
             }
         ]
     },
     {
-        "text": "Soucasná hodnota aktiva",
+        "text": "Současná hodnota aktiva",
         "answers": [
             {
                 "correct": false,
-                "text": "soucetdiskontovaných minulých príjmu získaných z drby urcitého aktiva"
+                "text": "součet diskontovaných minulých příjmů získaných z držby určitého aktiva"
             },
             {
                 "correct": false,
-                "text": "soucetdiskontovaných soucasných príjmu získaných z drby urcitého aktiva"
+                "text": "součet diskontovaných současných příjmů získaných z držby určitého aktiva"
             },
             {
                 "correct": false,
-                "text": "soucetdiskontovaných soucasných príjmu získaných z prodeje urcitého aktiva"
+                "text": "součet diskontovaných současných příjmů získaných z prodeje určitého aktiva"
             },
             {
                 "correct": true,
-                "text": "soucet diskontovaných budoucích príjmu získaných z drby urcitého aktiva"
+                "text": "soucet diskontovaných budoucích příjmů získaných z držby určitého aktiva"
             }
         ]
     },
     {
-        "text": "Lombardní úver je:",
+        "text": "Lombardní úvěr je:",
         "answers": [
             {
                 "correct": false,
-                "text": "Anijedna monost není správná"
+                "text": "Ani jedna možnost není správná"
             },
             {
                 "correct": false,
-                "text": "Nástrojmenové politiky CNB pouívaný pro rízení lombardní facility"
+                "text": "Nástroj měnové politiky ČNB používaný pro řízení lombardní facility"
             },
             {
                 "correct": true,
-                "text": "Bankovní úver poskytovaný typicky proti zástave CP"
+                "text": "Bankovní úvěr poskytovaný typicky proti zástavě CP"
             },
             {
                 "correct": false,
-                "text": "Hlavnínástroj menové politiky CNB pouívaný pri rízení lombardní sazby"
+                "text": "Hlavní nástroj měnové politiky ČNB používaný při řízení lombardní sazby"
             }
         ]
     },
     {
-        "text": "Pokud platí, e cenová elasticita spotrebitele je vyí ne cenová elasticita výrobce, pak je pri uloení jednotkové dane u výrobce pravdivé tvrzení (predpokládáme lineární prubeh obou krivek)",
+        "text": "Pokud platí, že cenová elasticita spotřebitele je vyšší než cenová elasticita výrobce, pak je pri uloení jednotkové dane u výrobce pravdivé tvrzení (predpokládáme lineární prubeh obou krivek)",
         "answers": [
             {
                 "correct": false,
