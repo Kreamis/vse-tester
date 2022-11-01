@@ -63,44 +63,44 @@
         ]
     },
     {
-        "text": "Pokud platí, že cenová elasticita spotřebitele je vyšší než cenová elasticita výrobce, pak je pri uloení jednotkové dane u výrobce pravdivé tvrzení (predpokládáme lineární prubeh obou krivek)",
+        "text": "Pokud platí, že cenová elasticita spotřebitele je vyšší než cenová elasticita výrobce, pak je při uložení jednotkové daně u výrobce pravdivé tvrzení (predpokládáme lineární průběh obou křivek)",
         "answers": [
             {
                 "correct": false,
-                "text": "DWLspotrebitele je vetí ne DWL výrobce"
+                "text": "DWL spotřebitele je větší než DWL výrobce"
             },
             {
                 "correct": true,
-                "text": "DWL je vyí u výrobce"
+                "text": "DWL je vyšší u výrobce"
             },
             {
                 "correct": false,
-                "text": "celkovédanové bremeno je nulové"
+                "text": "celkové daňové břemeno je nulové"
             },
             {
                 "correct": false,
-                "text": "nadmernédanové bremeno spotrebitele a výrobce je stejné"
+                "text": "nadměrné daňové břemeno spotřebitele a výrobce je stejné"
             },
             {
                 "correct": false,
-                "text": "nadmernédanové bremeno je vyí u spotrebitele"
+                "text": "nadměrné daňové břemeno je vyšší u spotřebitele"
             }
         ]
     },
     {
-        "text": "Pri cílování inflace vystupuje:",
+        "text": "Při cílování inflace vystupuje:",
         "answers": [
             {
                 "correct": false,
-                "text": "MBjako dlouhodobé kritérium"
+                "text": "MB jako dlouhodobé kritérium"
             },
             {
                 "correct": false,
-                "text": "IRdlouhodobá jako zprostredkující a IR krátkodobá jako operativní kritérium"
+                "text": "IR dlouhodobá jako zprostředkující a IR krátkodobá jako operativní kritérium"
             },
             {
                 "correct": false,
-                "text": "MBjako zprostredkující kritérium"
+                "text": "MB jako zprostředkující kritérium"
             },
             {
                 "correct": true,
@@ -113,7 +113,7 @@
         "answers": [
             {
                 "correct": true,
-                "text": "ádná monost není správná"
+                "text": "žádná možnost není správná"
             },
             {
                 "correct": false,
